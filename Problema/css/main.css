@@ -1,9 +1,11 @@
+/*col-lg-12 col-md-12 col-sm-12 col-xs-12*/
 /*GENERAL*/
-.op{
-    opacity: .6;
+/*TEXT*/
+.blue{
+    color: #7CB0FF;
 }
-.op1{
-    opacity: 1;
+#servicios h3{
+    color:#718DA8;
 }
 /*BACKGROUNDS*/
 header{
@@ -12,7 +14,11 @@ header{
 .bgbluef{
     background-color: #066FBE;
 }
-.bggray{
+bgblack{
     background-color: black;
 }
 /*HEADER*/
+/*SECTIONS*/
+#servicios img{
+    
+}
