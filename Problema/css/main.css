@@ -25,7 +25,7 @@ bgblack{
 #user, #computer{
     width: 100%;
 }
-#separador{
+.separador{
     margin-top: -4em;
     width: auto;
 }
