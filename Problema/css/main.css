@@ -22,7 +22,7 @@ bgblack{
 }
 /*HEADER*/
 /*SECTIONS*/
-#user{
+#user, #computer{
     width: 100%;
 }
 #separador{
