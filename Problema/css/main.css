@@ -1,0 +1,18 @@
+/*GENERAL*/
+.op{
+    opacity: .6;
+}
+.op1{
+    opacity: 1;
+}
+/*BACKGROUNDS*/
+header{
+    background-image: url("../image/large.jpg");
+}
+.bgbluef{
+    background-color: #066FBE;
+}
+.bggray{
+    background-color: black;
+}
+/*HEADER*/
