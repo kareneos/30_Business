@@ -1,5 +1,8 @@
 /*col-lg-12 col-md-12 col-sm-12 col-xs-12*/
 /*GENERAL*/
+.line{
+    border-bottom: .1em solid lightgray;
+}
 /*TEXT*/
 .blue{
     color: #7CB0FF;
@@ -19,6 +22,10 @@ bgblack{
 }
 /*HEADER*/
 /*SECTIONS*/
-#servicios img{
-    
+#user{
+    width: 100%;
+}
+#separador{
+    margin-top: -4em;
+    width: auto;
 }

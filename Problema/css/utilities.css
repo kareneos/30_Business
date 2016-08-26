@@ -8,6 +8,9 @@ a:hover{
 li{
     display: inline-block;
 }
+iframe{
+    width: 100%;
+}
 /* Shortcuts */
 .pd-0{
 	padding: 0;
