@@ -60,6 +60,15 @@ iframe{
 .pt-10{
     padding-top: 10%;
 }
+.pr-10{
+    padding-right: 10%;
+}
+.pb-10{
+    padding-bottom: 10%;
+}
+.pl-10{
+    padding-left: 10%;
+}
 .mg-0{
 	margin: 0%;
 }

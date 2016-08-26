@@ -14,18 +14,21 @@
 header{
     background-image: url("../image/large.jpg");
 }
-.bgbluef{
-    background-color: #066FBE;
+.bgblue{
+    background-color: #74A3DB;
 }
 bgblack{
     background-color: black;
 }
 /*HEADER*/
 /*SECTIONS*/
-#user, #computer{
+.imagew{
     width: 100%;
 }
 .separador{
     margin-top: -4em;
     width: auto;
+}
+.btn-lg{
+    border: .2em solid;
 }
