@@ -8,7 +8,7 @@ a:hover{
 li{
     display: inline-block;
 }
-iframe{
+img, iframe, input, textarea{
     width: 100%;
 }
 /* Shortcuts */

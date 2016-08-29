@@ -1,7 +1,16 @@
 /*col-lg-12 col-md-12 col-sm-12 col-xs-12*/
 /*GENERAL*/
+.pt-20{
+    padding-top: 20%;
+}
 .line{
     border-bottom: .1em solid lightgray;
+}
+.btn-lg{
+    border: .1em solid;
+}
+.modal span{
+    color: red;
 }
 /*TEXT*/
 .blue{
@@ -14,21 +23,65 @@
 header{
     background-image: url("../image/large.jpg");
 }
+#hblue, button{
+    background-color: rgba(124, 176, 255, .7);
+}
+.bgicon{
+    background-color: #50BDEA;
+}
 .bgblue{
     background-color: #74A3DB;
 }
-bgblack{
-    background-color: black;
+.bgblack{
+    background-color: rgba(15, 21, 30, .1);
+}
+#wantit{
+    background-image: url("../image/sec-2.jpg");
+    opacity: .8;
+    background-size: 93% 100%;
+    background-position: left;
+}
+footer{
+    background-color: #2A3541;
+}
+#myModal{
+    background-image: url("../image/large.jpg");
 }
 /*HEADER*/
+header span{
+    border: .3em solid white; 
+}
 /*SECTIONS*/
-.imagew{
-    width: 100%;
+span{
+    border-radius: 50%;
+}
+#servicios span{
+    font-size: 5em;
+    padding: 15%;
+    box-shadow:-3px 7px 10px 0px gray;
 }
 .separador{
-    margin-top: -4em;
+   margin-top: -4em;
+}
+#arrow, .separador, .icon{
     width: auto;
 }
-.btn-lg{
-    border: .2em solid;
+#usercomp{
+    height: 40em;
+}
+#usercomp span{
+    font-size: 2em;
+    padding: 3%;
+}
+button:hover {
+  box-shadow: 0 5px #666;
+  border: none;
+}
+ .service:hover {
+    -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+/*FOOTER*/
+footer span{
+    font-size: 2em;
 }
