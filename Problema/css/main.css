@@ -9,15 +9,15 @@
 .btn-lg{
     border: .1em solid;
 }
-.modal span{
-    color: red;
-}
 /*TEXT*/
 .blue{
     color: #7CB0FF;
 }
 #servicios h3{
     color:#718DA8;
+}
+.modal span{
+    color: red;
 }
 /*BACKGROUNDS*/
 header{
