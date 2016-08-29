@@ -53,6 +53,9 @@ footer{
 header span{
     border: .3em solid white; 
 }
+h1, h3{
+    font-family: 'Bree Serif', serif;
+}
 /*SECTIONS*/
 span{
     border-radius: 50%;
