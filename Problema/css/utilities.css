@@ -139,3 +139,6 @@ img, iframe, input, textarea{
 .pull-right {
 	float: right;
 }
+.inl{
+    display: inline;
+}
